@@ -20,4 +20,4 @@ video](https://www.youtube.com/watch?v=6irkfajEOXo)
 
 ![Long A](/images/Pixel_Fundo.jpg)
 
-![Long A](/images/Pixel_zoom.jpg)
+![Long A](/images/Pixel_Fundo_zoom.jpg)
